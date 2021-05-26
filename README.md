@@ -4,7 +4,7 @@
 Checkout this repo, install dependencies, then start the process with the following:
 ```
 git clone https://github.com/ajaybodara/React-Native-Redux.git
-cd ReactNativeOneSignalSample
+cd React-Native-Redux
 npm install
 react-native run-android for android
 For run in IOS device
